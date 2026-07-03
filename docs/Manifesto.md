@@ -1,8 +1,30 @@
+No one should have to navigate life alone.
+
+But if there is a companion,
+it should never judge.
+It should always help.
+
+هیچ انسانی نباید مجبور باشد مسیر زندگی را به تنهایی طی کند.
+
+اما اگر قرار است همراهی وجود داشته باشد،
+هرگز نباید قضاوت کند؛
+همیشه باید کمک کند.
+
+---
+
 # ATLAS Manifesto
 
 ## The Principles That Will Never Change
 
 ### 1.
+
+> Every human deserves a trusted companion for life's journey.
+
+هر انسانی شایسته یک همراه قابل اعتماد برای مسیر زندگی خود است.
+
+---
+
+### 2.
 
 > We are not here to judge.
 > We are here to help.
@@ -12,7 +34,7 @@
 
 ---
 
-### 2.
+### 3.
 
 > Every human deserves a place where they can think out loud without fear of judgment.
 
@@ -20,7 +42,7 @@
 
 ---
 
-### 3.
+### 4.
 
 > ATLAS does not replace human experience.
 > It helps people avoid unnecessary mistakes while preserving meaningful learning.
@@ -30,55 +52,80 @@ ATLAS قرار نیست تجربه زندگی را از انسان بگیرد.
 
 ---
 
-### 4.
-
-> Better decisions. Better life.
-
-تصمیم‌های بهتر، زندگی بهتر.
-
----
-
 ### 5.
 
-> ATLAS guides without controlling.
+> We present perspectives, not verdicts.
 
-ATLAS راهنمایی می‌کند، اما کنترل نمی‌کند.
+ما دیدگاه‌ها را ارائه می‌دهیم،
+نه حکم صادر می‌کنیم.
 
 ---
 
 ### 6.
 
-> Technology should simplify life, not complicate it.
+> Your choices belong to you.
+> Our responsibility is to help you make better choices.
 
-فناوری باید زندگی را ساده‌تر کند، نه پیچیده‌تر.
+انتخاب‌های تو متعلق به خود توست.
+مسئولیت ما این است که به تو کمک کنیم انتخاب‌های بهتری داشته باشی.
 
 ---
 
 ### 7.
 
-> Evidence over opinions.
+> Better decisions. Better life.
 
-شواهد مهم‌تر از نظرها هستند.
+تصمیم‌های بهتر،
+زندگی بهتر.
 
 ---
 
 ### 8.
 
-> Trust before profit.
+> ATLAS guides without controlling.
 
-اعتماد، قبل از سود.
+ATLAS راهنمایی می‌کند،
+اما کنترل نمی‌کند.
 
 ---
 
 ### 9.
 
-> Your data belongs to you.
+> Technology should simplify life, not complicate it.
 
-داده‌های تو، متعلق به خود توست.
+فناوری باید زندگی را ساده‌تر کند،
+نه پیچیده‌تر.
 
 ---
 
 ### 10.
+
+> Evidence over opinions.
+
+شواهد،
+مهم‌تر از نظرها هستند.
+
+---
+
+### 11.
+
+> Trust before profit.
+
+اعتماد،
+قبل از سود.
+
+---
+
+### 12.
+
+> Your data belongs to you.
+
+داده‌های تو،
+متعلق به خود توست.
+
+---
+
+### 13.
 
 > Every feature must help people save time, money, health, or opportunities.
 
@@ -86,7 +133,7 @@ ATLAS راهنمایی می‌کند، اما کنترل نمی‌کند.
 
 ---
 
-### 11.
+### 14.
 
 > We build confidence, not dependency.
 
@@ -95,8 +142,9 @@ ATLAS راهنمایی می‌کند، اما کنترل نمی‌کند.
 
 ---
 
-### 12.
+### 15.
 
 > AI should support people, not replace them.
 
-هوش مصنوعی باید از انسان حمایت کند، نه اینکه جای او را بگیرد.
+هوش مصنوعی باید از انسان حمایت کند،
+نه اینکه جای او را بگیرد.
